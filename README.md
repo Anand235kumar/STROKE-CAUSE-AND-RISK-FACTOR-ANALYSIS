@@ -3,10 +3,12 @@ This dashboard provides insights into stroke causes and associated risk factors 
 ![Uploading image.png…]()
 
 Key Metrics
+
 The dashboard includes the following summarized statistics:
 Stroke rate: 4.87 Heart disease rate: 5.39 Hypertension rate: 9.75 Average age: 43.20 Sample size: 5110
 
 Visualizations
+
 1.Stroke Count A donut chart showing the proportion of people with and without strokes.
 2.Stroke Rate by Age and Heart Disease A scatter plot showing stroke rates across different ages, categorized by heart disease status.
 3.Glucose Level vs Stroke A violin plot comparing glucose levels between individuals with and without strokes. Median and mean values are indicated.
@@ -14,6 +16,7 @@ Visualizations
 5.Stroke Rate by Age and Hypertension A scatter plot visualizing stroke rates across age groups, categorized by hypertension status. Filters
 
 Filters
+
 The dashboard includes the following filter options for interactive 
 exploration:
 Age Risk: High-Age-Risk Low-Age-Risk
